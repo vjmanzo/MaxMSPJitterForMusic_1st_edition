@@ -1,0 +1,67 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-25", "flonum", "float", 0.0, 5, "obj-26", "flonum", "float", 0.0, 5, "obj-27", "flonum", "float", 20.0, 5, "obj-24", "flonum", "float", 0.0, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-25", "flonum", "float", -40.0, 5, "obj-26", "flonum", "float", -57.0, 5, "obj-27", "flonum", "float", -46.0, 5, "obj-24", "flonum", "float", -0.3, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-25", "flonum", "float", 2.8, 5, "obj-26", "flonum", "float", 97.0, 5, "obj-27", "flonum", "float", -88.0, 5, "obj-24", "flonum", "float", 0.0, 5, "obj-23", "flonum", "float", -0.35, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 4,
+			"data" : [ 5, "obj-25", "flonum", "float", 0.0, 5, "obj-26", "flonum", "float", 54.0, 5, "obj-27", "flonum", "float", -130.0, 5, "obj-24", "flonum", "float", 0.0, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 5,
+			"data" : [ 5, "obj-25", "flonum", "float", -2.7, 5, "obj-26", "flonum", "float", 1.1, 5, "obj-27", "flonum", "float", -25.0, 5, "obj-24", "flonum", "float", 0.3, 5, "obj-23", "flonum", "float", -0.19, 5, "obj-22", "flonum", "float", 0.139 ]
+		}
+, 		{
+			"number" : 6,
+			"data" : [ 5, "obj-25", "flonum", "float", 2.14, 5, "obj-26", "flonum", "float", 7.9, 5, "obj-27", "flonum", "float", -66.0, 5, "obj-24", "flonum", "float", 0.52, 5, "obj-23", "flonum", "float", -0.2, 5, "obj-22", "flonum", "float", 0.149 ]
+		}
+, 		{
+			"number" : 7,
+			"data" : [ 5, "obj-25", "flonum", "float", 4.0, 5, "obj-26", "flonum", "float", 7.7, 5, "obj-27", "flonum", "float", 23.0, 5, "obj-24", "flonum", "float", 0.1, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 8,
+			"data" : [ 5, "obj-25", "flonum", "float", 5.41, 5, "obj-26", "flonum", "float", 16.6, 5, "obj-27", "flonum", "float", -178.0, 5, "obj-24", "flonum", "float", 0.0, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 9,
+			"data" : [ 5, "obj-25", "flonum", "float", 5.41, 5, "obj-26", "flonum", "float", -23.0, 5, "obj-27", "flonum", "float", -317.0, 5, "obj-24", "flonum", "float", 0.0, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 10,
+			"data" : [ 5, "obj-25", "flonum", "float", -89.0, 5, "obj-26", "flonum", "float", -16.0, 5, "obj-27", "flonum", "float", -364.0, 5, "obj-24", "flonum", "float", -0.36, 5, "obj-23", "flonum", "float", 0.017, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 11,
+			"data" : [ 5, "obj-25", "flonum", "float", 102.0, 5, "obj-26", "flonum", "float", -18.0, 5, "obj-27", "flonum", "float", -4.0, 5, "obj-24", "flonum", "float", 0.6, 5, "obj-23", "flonum", "float", 0.2, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 12,
+			"data" : [ 5, "obj-25", "flonum", "float", 2.13, 5, "obj-26", "flonum", "float", -14.5, 5, "obj-27", "flonum", "float", -85.0, 5, "obj-24", "flonum", "float", 1.2, 5, "obj-23", "flonum", "float", -0.55, 5, "obj-22", "flonum", "float", 0.188 ]
+		}
+, 		{
+			"number" : 13,
+			"data" : [ 5, "obj-25", "flonum", "float", 5.41, 5, "obj-26", "flonum", "float", 16.6, 5, "obj-27", "flonum", "float", -178.0, 5, "obj-24", "flonum", "float", 0.0, 5, "obj-23", "flonum", "float", 0.0, 5, "obj-22", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 14,
+			"data" : [ 5, "obj-25", "flonum", "float", 2.14, 5, "obj-26", "flonum", "float", 21.9, 5, "obj-27", "flonum", "float", -25.4, 5, "obj-24", "flonum", "float", 1.29, 5, "obj-23", "flonum", "float", -0.62, 5, "obj-22", "flonum", "float", 0.222 ]
+		}
+, 		{
+			"number" : 15,
+			"data" : [ 5, "obj-25", "flonum", "float", -18.799999, 5, "obj-26", "flonum", "float", -50.0, 5, "obj-27", "flonum", "float", -58.799999, 5, "obj-24", "flonum", "float", 1.1, 5, "obj-23", "flonum", "float", -0.69, 5, "obj-22", "flonum", "float", 0.134 ]
+		}
+, 		{
+			"number" : 24,
+			"data" : [ 5, "obj-25", "flonum", "float", -40.0, 5, "obj-26", "flonum", "float", -57.0, 5, "obj-27", "flonum", "float", -45.0, 5, "obj-24", "flonum", "float", -93.0, 5, "obj-23", "flonum", "float", 36.0, 5, "obj-22", "flonum", "float", 0.14 ]
+		}
+ ]
+}

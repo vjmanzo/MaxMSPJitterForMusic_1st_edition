@@ -1,0 +1,1 @@
+open thispatcherfolder "HD:/Applications/Max5/Cycling '74/EAMIR_SDK"folder "HD:/Applications/Max5/Cycling '74/max-externals"folder "HD:/Applications/Max5/Cycling '74/msp-externals"

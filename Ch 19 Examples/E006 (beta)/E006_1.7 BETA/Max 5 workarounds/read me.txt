@@ -1,0 +1,3 @@
+drag these into the parent folder and open
+
+these are two workarounds that allow the main patch to remain the active window so that the key objects contnue to work while viewing the HTML pages within the jweb object window

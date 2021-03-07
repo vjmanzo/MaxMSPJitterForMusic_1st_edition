@@ -1,0 +1,1 @@
+open thispatcherfolder HD:/Users/VJ/Documents/Temple/art/patchesfolder "HD:/Applications/Max5/Cycling '74/EAMIR_SDK"

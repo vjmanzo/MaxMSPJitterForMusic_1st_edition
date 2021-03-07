@@ -1,0 +1,10 @@
+1, intro;
+2, intro;
+3, verse;
+4, verse2;
+5, chorus;
+6, chorus2;
+7, verse;
+8, verse2;
+9, chorus;
+10, chorus2;

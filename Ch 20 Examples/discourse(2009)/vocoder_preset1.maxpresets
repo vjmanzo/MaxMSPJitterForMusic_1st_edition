@@ -1,0 +1,27 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 5, "obj-42", "flonum", "float", 40.0, 5, "obj-15", "flonum", "float", 10.0, 5, "obj-16", "flonum", "float", 38.0, 5, "obj-17", "flonum", "float", 15.289025, 5, "obj-38", "flonum", "float", 0.15 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 5, "obj-42", "flonum", "float", 80.0, 5, "obj-15", "flonum", "float", 10.0, 5, "obj-16", "flonum", "float", 38.0, 5, "obj-17", "flonum", "float", 61.0, 5, "obj-38", "flonum", "float", 0.19 ]
+		}
+, 		{
+			"number" : 3,
+			"data" : [ 5, "obj-42", "flonum", "float", 20.0, 5, "obj-15", "flonum", "float", 10.0, 5, "obj-16", "flonum", "float", 38.0, 5, "obj-17", "flonum", "float", 10.204201, 5, "obj-38", "flonum", "float", 0.3 ]
+		}
+, 		{
+			"number" : 4,
+			"data" : [ 5, "obj-42", "flonum", "float", 120.0, 5, "obj-38", "flonum", "float", 1.0, 5, "obj-41", "flonum", "float", 10.0, 5, "<invalid>", "flonum", "float", 10.0, 5, "<invalid>", "flonum", "float", 0.03 ]
+		}
+, 		{
+			"number" : 5,
+			"data" : [ 5, "obj-42", "flonum", "float", 80.0, 5, "obj-38", "flonum", "float", 0.0, 5, "obj-41", "flonum", "float", 0.0, 5, "<invalid>", "flonum", "float", 1.0, 5, "<invalid>", "flonum", "float", 0.0 ]
+		}
+, 		{
+			"number" : 6,
+			"data" : [ 5, "obj-42", "flonum", "float", 80.0, 5, "obj-15", "flonum", "float", 10.0, 5, "obj-16", "flonum", "float", 38.0, 5, "obj-17", "flonum", "float", 9.090909, 5, "obj-38", "flonum", "float", 0.19 ]
+		}
+ ]
+}

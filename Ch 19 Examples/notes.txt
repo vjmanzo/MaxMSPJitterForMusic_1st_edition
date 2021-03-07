@@ -1,0 +1,1 @@
+don't include XMLs for pattrstorage while building these standalones!! Load them into the standalone directory after. 

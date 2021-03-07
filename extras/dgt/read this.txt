@@ -1,0 +1,4 @@
+This piece is based on the Jitter Phase Vocoder jitter_pvoc_3D.maxpat patch by Luke Dubois in the Jitter Examples folder.
+
+This adaptation simply triggers a bunch of presets that change the piece in a predetermined way over time. 
+

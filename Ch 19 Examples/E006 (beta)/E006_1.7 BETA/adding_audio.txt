@@ -1,0 +1,35 @@
+Adding Audio and Activities
+
+Due to copyright, I can't distribute the studio MP3 recording for playback with this version of the application. However, below are instructions for replacing this temporary MP3 with the actual studio recording.
+
+To replace a temporary MP3 with a real one:
+
+1) Obtain the actual studio recording MP3 (CD, digital download, etc.). To purchase all audio used in this study through iTunes, visit vjmanzo.com/dissertation
+2) Open the "audio" folder within the E006 application folder
+
+    Windows - this is in the "support" folder
+
+    Mac -  right click the app and select "Show Package Contents" the open the "Contents/Support" folder
+
+
+3) Rename the real audio file you downloaded (step 1) to the same name as the temp MP3 in the "audio" folder (Note that you will have to convert other file formats to MP3 or edit the "playback_reportoire.txt" as described below)
+4) Copy the renamed MP3 to the "audio" folder replacing the temp MP3
+
+
+The activity chord sheets are essentially just web pages. The chord patterns are just image files and the text layout is an HTML file that can be modified with any text editor. The file "playback_reportoire.txt" obtains the page name from the webpages and loads a number of parameters into the software. This file can also be modified with any text editor.
+ 
+
+
+To add a song to the activities:
+
+1) Open a webpage from the "pages" folder within the E006 application folder
+
+    Windows - this is in the "support" folder
+
+    Mac -  right click the app and select "Show Package Contents" the open the "Contents/Support" folder
+
+
+2) Rename the page filename and it's name within the <title> tags with an HTML or text editor
+2) Open the playback_reportoire.txt file within the E006 application folder and change the properties of this table to the properties of the song you're adding (key, tempo, timbre, etc.). Refer to the legend on the first line of this file for specific information on what each value represents.
+
+ 

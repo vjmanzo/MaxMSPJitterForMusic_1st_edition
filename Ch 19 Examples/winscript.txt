@@ -1,0 +1,3 @@
+open thispatcher
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/EAMIR_SDK"
+appicon "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/EAMIR_SDK/EAMIR_support/p_data/EAMIR.ico"

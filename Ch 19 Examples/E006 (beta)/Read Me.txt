@@ -1,0 +1,5 @@
+This software was used in the research study for my PhD dissertation viewable at:
+
+ www.vjmanzo.com/dissertation
+
+The app uses the computer keyboard to play chords. However, since the key object only sends data to Max when it is in the foreground, a decent little workaround is used here to keep the patch in the foreground. Enjoy!!

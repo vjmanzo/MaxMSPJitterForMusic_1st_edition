@@ -1,0 +1,10 @@
+open thispatcher
+appicon C:/D820_stuff/favicon.ico
+include "C:/Documents and Settings/V/My Documents/Temple/Comp Lesson Wright/loopbuf4.maxpat"
+include "C:/Documents and Settings/V/My Documents/Temple/Comp Lesson Wright/stutter_me.maxpat"
+include "C:/Documents and Settings/V/My Documents/Temple/Comp Lesson Wright/stutter_me.maxpat"
+include "C:/Documents and Settings/V/My Documents/Temple/Comp Lesson Wright/vocoder_preset1.maxpresets"
+include "C:/Program Files/Cycling '74/Max 5.0/examples/effects/classic-vocoder-folder/lib/classic-channel.maxpat"
+folder "C:/Documents and Settings/V/My Documents/maxobjects/Modal_Object_Library"
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/msp-externals"
+folder "C:/Program Files/Cycling '74/Max 5.0/Cycling '74/max-externals"

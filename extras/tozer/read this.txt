@@ -1,0 +1,9 @@
+This was the first Max patch I ever completed from a long time ago. 
+It took me forever to do, it looks terrible, but it sort of works (with errors)!!
+It was made with Max version 4 which is now obsolete (that's why the extension on the file is .mxb). 
+I've included it here just for laughs--don't ever let the patch cords in your projects look this chaotic!!!!!
+
+
+Best,
+
+V.J.

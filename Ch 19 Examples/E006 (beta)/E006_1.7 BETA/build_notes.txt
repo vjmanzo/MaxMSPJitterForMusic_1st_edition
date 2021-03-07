@@ -1,0 +1,5 @@
+If building a Standalone
+
+1) put XML files, and playback_reportoire.txt, in root application folder
+
+2) put E006.html, audio, and pages folders go in support folder. 

@@ -1,0 +1,17 @@
+1, bass_solo;
+2, bass_piano;
+3, bass_piano_guitar;
+4, intro;
+5, verse;
+6, verse2;
+7, chorus;
+8, chorus2;
+9, verse3;
+10, verse4;
+11, chorus;
+12, chorus2;
+13, bridge;
+14, solo;
+15, chorus3;
+16, chorus2;
+17, end;
